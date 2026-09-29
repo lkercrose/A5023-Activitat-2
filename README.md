@@ -23,3 +23,12 @@
 - Branca: `feature/segona-funcionalitat`
 - Modificació: s'ha afegit el fitxer `funcionalitat2.txt`.
 - Data: 29/09/2026
+
+## Pong - versió inicial
+
+- Branca: `feature/pong-base`
+- S'ha creat la primera versió del joc Pong.
+- El jugador controla la pala amb les tecles W i S.
+- La pala dreta està controlada automàticament.
+- S'han afegit `index.html`, `styles.css` i `game.js`.
+- Data: 29/09/2026
