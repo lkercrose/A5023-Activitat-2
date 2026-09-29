@@ -17,3 +17,9 @@
 - Branca: `feature/primera-funcionalitat`
 - Modificació: s'ha afegit el fitxer `funcionalitat1.txt`.
 - Data: 29/09/2026
+
+## Feature: segona funcionalitat
+
+- Branca: `feature/segona-funcionalitat`
+- Modificació: s'ha afegit el fitxer `funcionalitat2.txt`.
+- Data: 29/09/2026

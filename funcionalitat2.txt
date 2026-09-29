@@ -1,0 +1,4 @@
+Segona funcionalitat del projecte.
+
+Aquest fitxer s'ha creat des de la branca feature/segona-funcionalitat
+per repetir el flux de treball amb Git i Pull Requests.
