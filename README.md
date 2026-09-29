@@ -32,3 +32,11 @@
 - La pala dreta està controlada automàticament.
 - S'han afegit `index.html`, `styles.css` i `game.js`.
 - Data: 29/09/2026
+
+## Pong - millora visual
+
+- Branca: `feature/pong-estils`
+- S'ha millorat l'aspecte visual del joc.
+- S'ha aplicat un estil arcade senzill mitjançant CSS.
+- S'ha millorat la presentació del marcador, el tauler i les instruccions.
+- Data: 29/09/2026

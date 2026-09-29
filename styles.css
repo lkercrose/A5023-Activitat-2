@@ -1,29 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
-    background: #111;
-    color: white;
-    font-family: Arial, sans-serif;
-    text-align: center;
+    min-height: 100vh;
+    background: #0a0a0a;
+    color: #f5f5f5;
+    font-family: "Courier New", monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
-    margin-top: 30px;
+    text-align: center;
 }
 
 h1 {
-    letter-spacing: 8px;
+    margin: 0 0 12px;
+    font-size: 52px;
+    letter-spacing: 14px;
+    font-weight: normal;
 }
 
 .marcador {
-    font-size: 28px;
-    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 18px;
+    font-size: 30px;
 }
 
 canvas {
-    background: black;
-    border: 2px solid white;
+    display: block;
+    background: #000;
+    border: 3px solid #f5f5f5;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.12);
 }
 
 p {
-    color: #aaa;
+    margin-top: 18px;
+    color: #888;
+    font-size: 14px;
+    letter-spacing: 2px;
 }
