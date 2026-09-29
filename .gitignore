@@ -1,0 +1,13 @@
+# Fitxers temporals
+*.tmp
+*.log
+
+# Entorns virtuals de Python
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Fitxers locals
+.env
