@@ -11,3 +11,9 @@
 - Cada branca modificarà també aquest README.
 - Els canvis s'integraran a `main` mitjançant Pull Request.
 - Cada Pull Request haurà de ser revisat per un altre membre del grup.
+
+## Feature: primera funcionalitat
+
+- Branca: `feature/primera-funcionalitat`
+- Modificació: s'ha afegit el fitxer `funcionalitat1.txt`.
+- Data: 29/09/2026
